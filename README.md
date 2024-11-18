@@ -1,4 +1,4 @@
-# configs
+# Configs
 This is just a collection of usefull configs for differents utilities.
 
 # How to generate ssh key for vasandrkg user for github.com
