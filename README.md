@@ -8,5 +8,5 @@ ssh-keygen -t rsa -b 4096 -C "vasandrkg@github.com" -f github;
 ```
 # How to copy public ssh key for vasandrkg user to some host
 ```
-ssh-copy-id -i ~/.ssh/github.pub vasandrkg@some_host_goes_here
+ssh-copy-id -i ~/.ssh/github.pub vasandrkg@some_host_goes_here;
 ```
